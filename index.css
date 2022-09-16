@@ -173,6 +173,6 @@ body{
         height: 450px;
         border-top-left-radius: 10px;
         border-bottom-left-radius: 10px;
-        background-image: url(/images/image-product-desktop.jpg);
+        background-image: url(https://github.com/Kishp73/Product-preview-card-component/blob/main/images/image-product-desktop.jpg?raw=true);
     }
 }
