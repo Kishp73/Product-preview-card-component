@@ -49,7 +49,7 @@ body{
 
 .image_container{
     grid-area: img_container;
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(https://github.com/Kishp73/Product-preview-card-component/blob/main/images/image-product-mobile.jpg?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     border-top-left-radius: 4%;
